@@ -1,1 +1,4 @@
 # Predicting-number-of-times-copper-is-processed-from-images
+
+# Introduction 
+# Severe Plastic Deformation (SPD) is a technique where tremendous strain is applied to the material. This process helps to improve yield stress, ductility and yield strength of the material. There are four methods by which SPD can be performed: High-pressure torsion; Twist extrusion; accumulative roll bonding; Equal channel angular pressing (ECAP). Of this four methods, we use ECAP on copper to improve it's conductivity too. After this process, the grain size and boundaries change. This difference in grain boundaries differe with the number of passes. In this project, we will get a sample with the known number of passes, and we will get another image and need to predict the number of passes the copper wire has gown through. 
